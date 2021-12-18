@@ -16,37 +16,37 @@
 * **AWS EC2**
 
 <p align = "center">
-<img src="https://github.com/iizdebski/MicroservicesSpringCloud/blob/master/images/micro_01.JPG">
+<img src="https://github.com/iizdebski/MicroservicesSpringCloud2/blob/main/images/micro_01.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/MicroservicesSpringCloud/blob/master/images/micro_02.JPG">
+<img src="https://github.com/iizdebski/MicroservicesSpringCloud2/blob/main/images/micro_02.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/MicroservicesSpringCloud/blob/master/images/micro_03.JPG"> 
+<img src="https://github.com/iizdebski/MicroservicesSpringCloud2/blob/main/images/micro_03.JPG"> 
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/MicroservicesSpringCloud/blob/master/images/micro_04.JPG">
+<img src="https://github.com/iizdebski/MicroservicesSpringCloud2/blob/main/images/micro_04.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/MicroservicesSpringCloud/blob/master/images/micro_05.JPG">
+<img src="https://github.com/iizdebski/MicroservicesSpringCloud2/blob/main/images/micro_05.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/MicroservicesSpringCloud/blob/master/images/micro_06.JPG">
+<img src="https://github.com/iizdebski/MicroservicesSpringCloud2/blob/main/images/micro_06.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/MicroservicesSpringCloud/blob/master/images/micro_07.JPG"> 
+<img src="https://github.com/iizdebski/MicroservicesSpringCloud2/blob/main/images/micro_07.JPG"> 
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/MicroservicesSpringCloud/blob/master/images/micro_08.JPG">
+<img src="https://github.com/iizdebski/MicroservicesSpringCloud2/blob/main/images/micro_08.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/MicroservicesSpringCloud/blob/master/images/micro_09.JPG">
+<img src="https://github.com/iizdebski/MicroservicesSpringCloud2/blob/main/images/micro_09.JPG">
 </p>
